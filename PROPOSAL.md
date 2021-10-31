@@ -3,8 +3,6 @@
 ### <div align="center"> Ryan, Arisdelsy, Johnny
 
 <br>
-<br>
-<br>
 
 # <div align="center"> Facial Recognition with OpenCV
 
