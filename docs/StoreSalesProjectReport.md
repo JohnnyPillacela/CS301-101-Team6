@@ -1,10 +1,8 @@
-<center>
+# <p style="text-align: center"> **Store Sales** </p>
 
-# **Store Sales**
+## <center> **Time Series Forecasting** </center>
 
-## **Time Series Forecasting**
-
-## <u>**Authors**</u>
+## <center> <u>**Authors**</u> </center>
 
 Arisdelsy Bruno Diaz
 
@@ -59,5 +57,3 @@ In conclusion, what we learned with this project is how effective a prediction m
 ## <u>**Citations**</u>
 
 Kaggle Data [https://www.kaggle.com/c/store-sales-time-series-forecasting/data](https://www.kaggle.com/c/store-sales-time-series-forecasting/data)
-
-</center>
