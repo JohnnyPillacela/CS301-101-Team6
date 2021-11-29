@@ -1,4 +1,4 @@
-# <p style="text-align: center"> **Store Sales** </p>
+# <div align="center"> **Store Sales**
 
 ## <center> **Time Series Forecasting** </center>
 
