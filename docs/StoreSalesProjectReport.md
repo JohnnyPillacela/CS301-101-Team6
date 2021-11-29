@@ -19,7 +19,7 @@ Our approach is to predict the sales for each department using historical markdo
 
 We would also like to create a linear model to find a specific value for Weekly Sales that we want to predict. This line of best fit is intended to approximate further data points based on the line that we find in our training data. Perform dimensionality reduction to improve prediction error by shrinkage in order to reduce overfitting.
 
-**STILL NEED RESULTS**
+**--**
 
 
 ## <u>**Introduction**</u>
@@ -34,7 +34,7 @@ Using our data that we collected, we will use Time Series Forecasting to predict
 
 We will use plot graphs of different time spreads to come up with the best predictions for future sales. We can compare our hypotheses against quantitative data produced by our program to determine error.
 
-**STILL NEED RESULTS**
+**--**
 
 ## <u>**Related Work**</U>
 
