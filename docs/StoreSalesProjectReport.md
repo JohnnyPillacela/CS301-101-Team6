@@ -1,8 +1,7 @@
 <div align="center">
 
 # **Store Sales**
-
-## **Time Series Forecasting**
+# **Time Series Forecasting**
 
 ## <u>**Authors**</u> 
 
