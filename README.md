@@ -1,3 +1,5 @@
+<div align="center">
+
 # CS301-101-Team6
 ## Time Series Store Sales
 
@@ -16,7 +18,7 @@ Link to Video Presentation on Youtube
 
 <br>
 
-### Authors:
+## Authors:
 
 <br>
 
