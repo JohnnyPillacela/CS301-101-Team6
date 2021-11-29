@@ -1,8 +1,10 @@
-# <div align="center"> **Store Sales**
+<div align="center">
 
-## <center> **Time Series Forecasting** </center>
+# **Store Sales**
 
-## <center> <u>**Authors**</u> </center>
+## **Time Series Forecasting**
+
+## <u>**Authors**</u> 
 
 Arisdelsy Bruno Diaz
 
@@ -19,6 +21,7 @@ Our approach is to predict the sales for each department using historical markdo
 We would also like to create a linear model to find a specific value for Weekly Sales that we want to predict. This line of best fit is intended to approximate further data points based on the line that we find in our training data. Perform dimensionality reduction to improve prediction error by shrinkage in order to reduce overfitting.
 
 **STILL NEED RESULTS**
+
 
 ## <u>**Introduction**</u>
 
