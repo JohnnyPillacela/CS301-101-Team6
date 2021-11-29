@@ -5,3 +5,6 @@ Please see PROPOSAL.md above or
 Click the link below to see our team's proposal
 <br>
 [PROPOSAL.md](https://github.com/JohnnyPillacela/CS301-101-Team6/blob/master/PROPOSAL.md)
+
+Link To Video Presentation on Youtube
+[StoreSalesGroup6](https://www.youtube.com/watch?v=ojxBZw5bhYw)
