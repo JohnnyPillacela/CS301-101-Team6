@@ -1,12 +1,31 @@
 # CS301-101-Team6
-### Time Series Store Sales
-Please see PROPOSAL.md above or
+## Time Series Store Sales
+
 <br>
-Click the link below to see our team's proposal
-<br>
-[PROPOSAL.md](https://github.com/JohnnyPillacela/CS301-101-Team6/blob/master/PROPOSAL.md)
+
+Link to see our Proposal [PROPOSAL.md](https://github.com/JohnnyPillacela/CS301-101-Team6/blob/master/PROPOSAL.md)
 
 Link to View our Report [Store Sales - Time Series Forecasting](https://github.com/JohnnyPillacela/CS301-101-Team6/blob/master/docs/StoreSalesProjectReport.md)
 
 Link to Video Presentation on Youtube
 [StoreSalesGroup6](https://www.youtube.com/watch?v=ojxBZw5bhYw)
+
+
+
+<div align="center">
+
+<br>
+
+### Authors:
+
+<br>
+
+Arisdelsy Bruno Diaz
+
+<br>
+
+Johnny Pillacela
+
+<br>
+
+Ryan Feroz
